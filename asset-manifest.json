@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/love-language-web/static/css/main.ee8fb9e7.css",
+    "main.js": "/love-language-web/static/js/main.95525238.js",
+    "static/js/787.8c9eed61.chunk.js": "/love-language-web/static/js/787.8c9eed61.chunk.js",
+    "static/media/logout.jpg": "/love-language-web/static/media/logout.a188a16edff613ba4bba.jpg",
+    "static/media/logo.jpg": "/love-language-web/static/media/logo.b94329132fed79ec91f2.jpg",
+    "static/media/google.png": "/love-language-web/static/media/google.6bc7d49355c4e25579a0.png",
+    "index.html": "/love-language-web/index.html",
+    "main.ee8fb9e7.css.map": "/love-language-web/static/css/main.ee8fb9e7.css.map",
+    "main.95525238.js.map": "/love-language-web/static/js/main.95525238.js.map",
+    "787.8c9eed61.chunk.js.map": "/love-language-web/static/js/787.8c9eed61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8fb9e7.css",
+    "static/js/main.95525238.js"
+  ]
+}
